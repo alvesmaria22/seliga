@@ -1,0 +1,22 @@
+.corpo{
+   background-color: deeppink;
+   color: aliceblue;
+   text-align: center;
+   border: 10px;
+   border-style: groove;
+   border-color: hotpink;
+
+}
+p{
+    color: beige;
+    font-size: 20px;
+}
+
+     #link{
+        color: beige;
+        text-decoration: none;
+}
+     #link:hover{
+    color: beige;
+    font-size: 15px;
+}
